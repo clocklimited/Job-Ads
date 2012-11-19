@@ -18,8 +18,7 @@ We make websites focusing on user experience and good software engineering. At t
 
 ## What we want
 * Either contract or permanent
-* Someone who loves coding and whose passion is so apparent it inspires others
-* Must be a coding Ninja - Ideally with a computing related degree
+* Someone who loves coding, ideally with a computing related degree
 * You must be able to work in the UK at least part of the time
 * *4+ year  postgraduate experience*
 * **Pass our coding testing.** If you can explain closures, write a quicksort from scratch without google, use bitwise operators then you'll probably be okay to take the test.
