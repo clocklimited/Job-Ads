@@ -1,9 +1,9 @@
 # Front-End Developer Placement
 
-Clock, an award-winning Digital Agency, is seeking a Front End Developer Placement, with an emphasis on creativity, to join their highly experienced team.
+Clock are seeking a Front End Developer Placement to join their highly experienced team.
 
 ## Who we are
-[Clock](http://www.clock.co.uk) is an award wining web build agency in [Hertfordshire](http://maps.google.co.uk/maps?q=clock+limited+wd4+8rq&hl=en&sll=51.693441,-0.436912&sspn=0.010734,0.022724&gl=uk&z=16)  **(20 mins from London)**.
+[Clock](http://www.clock.co.uk) are an award wining digital agency in [Hertfordshire](http://maps.google.co.uk/maps?q=clock+limited+wd4+8rq&hl=en&sll=51.693441,-0.436912&sspn=0.010734,0.022724&gl=uk&z=16)  **(20 mins from London)**.
 
 ## What we do
 We develop and build inspirational digital interfaces, delivering value through technological innovation, creative expertise and business insight for our clients.
@@ -15,9 +15,7 @@ We develop and build inspirational digital interfaces, delivering value through 
 * [www.eddieizzard.com](http://www.eddieizzard.com)
 
 ## What we want
-An intelligent, innovative and resourceful student who wants to create powerful brand experiences with the latest technologies. Above all someone who is keen, highly motivated, creative and extremely passionate about digital design and development.
-
-This is a fantastic opportunity for a student to further their career and really make their mark in an established agency.
+An intelligent, innovative and resourceful student who wants to create powerful brand experiences with the latest technologies.
 
 ## The successful candidate will have:
 * Good knowledge of Semantic HTML5 and CSS3.
@@ -35,7 +33,7 @@ This is a fantastic opportunity for a student to further their career and really
 * Any experience with Node.js a major plus.
 
 ## What you get
-* Gain experience in all areas of the business.
+* Gain real-world experience in an established agency.
 * Work in a relaxed, fun and buzzing environment.
 * Develop your skills: design and development practices and methodologies, innovation, teamwork and social interaction.
 * Add the best clients to your portfolio: BBC, Channel 4, News International, Shortlist and more.
