@@ -5,7 +5,6 @@ Clock are seeking a Front End Developer Placement to join their highly experienc
 ## Who we are
 [Clock](http://www.clock.co.uk) are an award wining digital agency in [Hertfordshire](http://maps.google.co.uk/maps?q=clock+limited+wd4+8rq&hl=en&sll=51.693441,-0.436912&sspn=0.010734,0.022724&gl=uk&z=16)  **(20 mins from London)**.
 
-## What we do
 We develop and build inspirational digital interfaces, delivering value through technological innovation, creative expertise and business insight for our clients.
 
 * [www.shortlist.com](http://www.shortlist.com)
@@ -17,14 +16,14 @@ We develop and build inspirational digital interfaces, delivering value through 
 ## What we want
 An intelligent, innovative and resourceful student who wants to create powerful brand experiences with the latest technologies.
 
-## The successful candidate will have:
+## The successful candidate will have
 * Good knowledge of Semantic HTML5 and CSS3.
 * Experience using JavaScript (including frameworks such as jQuery).
 * A comprehensive understanding of web standards and accessibility.
 * Great attention to detail.
 * Graphics manipulation/optimisation skills using Photoshop and other industry standard software.
 
-## Advantageous skills could include:
+## Advantageous skills could include
 * Experience using a CSS Pre-processor: Stylus, Sass, Less etc.
 * An understanding of mobile-first responsive design and build.
 * An interest in Interaction Design and UX.
