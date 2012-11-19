@@ -6,7 +6,7 @@ Clock, an award-winning Digital Agency, is seeking a Front End Developer Placeme
 [Clock](http://www.clock.co.uk) is an award wining web build agency in [Hertfordshire](http://maps.google.co.uk/maps?q=clock+limited+wd4+8rq&hl=en&sll=51.693441,-0.436912&sspn=0.010734,0.022724&gl=uk&z=16)  **(20 mins from London)**.
 
 ## What we do
-We make websites focusing on good user experience. At the moment we are rolling out big PHP and node.js implements for our clients.
+We develop and build inspirational digital interfaces, delivering value through technological innovation, creative expertise and business insight for our clients.
 
 * [www.shortlist.com](http://www.shortlist.com)
 * [www.stylist.co.uk](http://www.stylist.co.uk)
@@ -17,7 +17,7 @@ We make websites focusing on good user experience. At the moment we are rolling 
 ## What we want
 An intelligent, innovative and resourceful student who wants to create powerful brand experiences with the latest technologies. Above all someone who is keen, highly motivated, creative and extremely passionate about digital design and development.
 
-This is a fantastic opportunity for a student to further their career and really make their mark in an established and growing agency.
+This is a fantastic opportunity for a student to further their career and really make their mark in an established agency.
 
 ## The successful candidate will have:
 * Good knowledge of Semantic HTML5 and CSS3.
@@ -37,7 +37,7 @@ This is a fantastic opportunity for a student to further their career and really
 ## What you get
 * Gain experience in all areas of the business.
 * Work in a relaxed, fun and buzzing environment.
-* Develop your skills: Design and Development practices and methodologies, Innovation, Teamwork and Social Interaction.
+* Develop your skills: design and development practices and methodologies, innovation, teamwork and social interaction.
 * Add the best clients to your portfolio: BBC, Channel 4, News International, Shortlist and more.
 * Competitive placement salary.
 
@@ -52,4 +52,4 @@ This will be the 14th year that we have taken on placements students, with many 
 See more reviews from our past placements: [www.ratemyplacement.co.uk](http://www.ratemyplacement.co.uk)
 
 ## Apply
-Email your CV and covering letter to Sam Chatwin - [placement@clock.co.uk](mailto:placement@clock.co.uk)
+Email your CV, covering letter and example of your work to Claire Wilson - [placement@clock.co.uk](mailto:placement@clock.co.uk)
