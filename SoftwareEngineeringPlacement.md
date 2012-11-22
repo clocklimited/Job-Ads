@@ -1,7 +1,7 @@
 # Software Engineer Placement
 
 ## Who we are
-[Clock](http://www.clock.co.uk) is an award wining web build agency in [Hertfordshire](http://maps.google.co.uk/maps?q=clock+limited+wd4+8rq&hl=en&sll=51.693441,-0.436912&sspn=0.010734,0.022724&gl=uk&z=16)  **(20 mins from London)**
+[Clock](http://www.clock.co.uk) is an award winning web build agency in [Hertfordshire](http://maps.google.co.uk/maps?q=clock+limited+wd4+8rq&hl=en&sll=51.693441,-0.436912&sspn=0.010734,0.022724&gl=uk&z=16)  **(20 mins from London)**
 
 ## What we do
 We make websites focusing on user experience and good software engineering. At the moment we are rolling out big PHP and node.js implements for our clients.
@@ -13,7 +13,7 @@ We make websites focusing on user experience and good software engineering. At t
 * http://www.eddieizzard.com
 
 ## What we use
-* JavaScript - browser and **node.js** for backend
+* JavaScript - browser and _node.js_ for backend
 * PHP - Legacy
 * HTML5 / CSS3
 * Database -  PostgreSQL, Mongodb, Redis
