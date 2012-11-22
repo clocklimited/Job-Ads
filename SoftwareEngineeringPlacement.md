@@ -13,7 +13,7 @@ We make websites focusing on user experience and good software engineering. At t
 * http://www.eddieizzard.com
 
 ## What we use
-* JavaScript - browser and _node.js_ for backend
+* JavaScript - browser and __node.js__ for backend
 * PHP - Legacy
 * HTML5 / CSS3
 * Database -  PostgreSQL, Mongodb, Redis
