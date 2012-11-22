@@ -40,7 +40,7 @@ This will be the 14th year that we have taken on placements students, with many 
 **Elliot, Former placement student**
 
 See more reviews from our past placements.
-[www.ratemyplacement.co.uk](http://www.ratemyplacement.co.uk)
+[www.ratemyplacement.co.uk](http://www.ratemyplacement.co.uk/search?s=clock+ltd&show=reviews)
 
 ## Apply
 Email your CV and covering letter to Tom Smith [placement@clock.co.uk](mailto:placement@clock.co.uk)
