@@ -1,4 +1,4 @@
-# Software Engineer Placement
+# Software Engineer Placement (3 positions)
 
 ## Who we are
 [Clock](http://www.clock.co.uk) is an award winning web build agency in [Hertfordshire](http://maps.google.co.uk/maps?q=clock+limited+wd4+8rq&hl=en&sll=51.693441,-0.436912&sspn=0.010734,0.022724&gl=uk&z=16)  **(20 mins from London)**
