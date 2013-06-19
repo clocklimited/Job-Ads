@@ -1,6 +1,6 @@
 # Senior Software Engineer
 
-The Senior Software Engineer is a key role with the business. The chosen candidate will be working closly with the CTO and other senior staff within the tech team to drive the technology side of the business.
+The Senior Software Engineer is a key role within the business. The chosen candidate will be working closely with the CTO and other senior staff within the tech team to drive the technology side of the business.
 
 ## Who we are
 [Clock](http://www.clock.co.uk) is an award winning digital agency in [Hertfordshire](http://maps.google.co.uk/maps?q=clock+limited+wd4+8rq&hl=en&sll=51.693441,-0.436912&sspn=0.010734,0.022724&gl=uk&z=16)  **(20 mins from London)**. We develop and build inspirational digital interfaces, delivering value through technological innovation, creative expertise and business insight for our clients.
@@ -50,6 +50,6 @@ Although not as important any of the following would be a bonus:
 ## Interview Process
 To ensure we find the ideal candidate (and don't waste your time or ours) our interview process is made up of 3 steps.
 
-1. Short 1hr remote Coding Test (involving implementing a solution to a simple problem that will allow candidates to demostrate their ability in a choice of languages)
+1. Short 1 hour remote Coding Test (involving implementing a solution to a simple problem that will allow candidates to demostrate their ability in a choice of languages)
 2. Telephone interview
 3. Face to Face interview
