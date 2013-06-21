@@ -44,8 +44,10 @@ Although not as important any of the following would be a bonus:
 * London equivalent salary.
 * High-end equipment (Apple, PC whatever you want).
 * Newest Smartphone with all calls and data paid for.
+* Great personal & company bonuses.
 * Flexi time.
 * Remote working options.
+* Group Personal Pension Scheme. You put in 5% and we match it!
 
 ## Interview Process
 To ensure we find the ideal candidate (and don't waste your time or ours) our interview process is made up of 3 steps.
