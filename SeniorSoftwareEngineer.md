@@ -29,7 +29,7 @@ As a Senior Software Engineer on the tech team, you would be expected to:
 * Love coding and have a Computing related degree.
 * Follow TDD to the letter and be excited with 100% code coverage.
 * Have experience in at least Javascript, Node.js or PHP.
-* Be able to work in the UK at least part of the time.
+* Be able to work in the UK fulltime from our Herfordshire office.
 * Have excellent communications skills and be able to explain complex problems to any audience.
 * Be comfortable using the command line.
 
@@ -44,7 +44,7 @@ Although not as important any of the following would be a bonus:
 * London equivalent salary.
 * High-end equipment (Apple, PC whatever you want).
 * Newest Smartphone with all calls and data paid for.
-* Great personal & company bonuses.
+* Great personal and company bonuses.
 * Flexi time.
 * Remote working options.
 * Group Personal Pension Scheme. You put in 5% and we match it!
@@ -52,6 +52,6 @@ Although not as important any of the following would be a bonus:
 ## Interview Process
 To ensure we find the ideal candidate (and don't waste your time or ours) our interview process is made up of 3 steps.
 
-1. Short 1 hour remote Coding Test (involving implementing a solution to a simple problem that will allow candidates to demostrate their ability in a choice of languages)
+1. Short one hour remote Coding Test (involving implementing a solution to a simple problem that will allow candidates to demostrate their ability in a choice of languages)
 2. Telephone interview
 3. Face to Face interview
